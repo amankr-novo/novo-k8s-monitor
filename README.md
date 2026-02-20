@@ -9,7 +9,7 @@ Add this to your Claude Code project settings (`.claude/settings.json`) or user 
 ```json
 {
   "skills": [
-    "github:amankr-novo/novo-k8s"
+    "github:amankr-novo/novo-k8s-monitor"
   ]
 }
 ```
@@ -17,7 +17,7 @@ Add this to your Claude Code project settings (`.claude/settings.json`) or user 
 Or install from the CLI:
 
 ```bash
-claude skill add github:amankr-novo/novo-k8s
+claude skill add github:amankr-novo/novo-k8s-monitor
 ```
 
 ## Prerequisites
